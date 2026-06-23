@@ -3,7 +3,11 @@
 </p>
 
 <p align="center">
-  <strong>A desktop music library builder that turns Spotify, Youtube Music Apple Music, Amazon Music, Tidal, Qobuz, and Deezer links into fully tagged local library in FLAC, ALAC, AAC, or MP3.</strong>
+  <sub>🌐 Running live at <a href="https://antra.hoshi.cfd/">antra.hoshi.cfd</a></sub>
+</p>
+
+<p align="center">
+  <strong>A desktop music library builder that turns Spotify, YouTube Music, Apple Music, Amazon Music, Tidal, Qobuz, and Deezer links into a fully tagged local library in FLAC, ALAC, AAC, or MP3.</strong>
 </p>
 
 <p align="center">
